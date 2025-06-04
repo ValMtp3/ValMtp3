@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub !
 
-Salut, je suis Valentin ! 👋 Je suis actuellement en études d'informatique à l'EPSI et en découverte de front-end dev web et machine learning.
+Salut, je suis Valentin ! 👋 Je suis actuellement en études d'informatique à l'EPSI et en découverte de front-end dev web et IA/machine learning.
 
 
 
@@ -12,8 +12,8 @@ Salut, je suis Valentin ! 👋 Je suis actuellement en études d'informatique à
 
 ## Mes compétences
 
-- Langages de programmation : <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,python&theme=light" />
-- Technologies : <img align="center" src="https://skillicons.dev/icons?i=tailwind,vuejs,mysql,symfony&theme=light" />
+- Langages de programmation : <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,py&theme=light" />
+- Technologies : <img align="center" src="https://skillicons.dev/icons?i=tailwind,vuejs,mysql,symfony,pytorch,tensorflow&theme=light" />
 
 ## Contact
 
