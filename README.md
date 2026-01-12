@@ -28,8 +28,8 @@ Salut, je suis Valentin ! 👋 Je suis actuellement en études d'informatique à
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValMtp3&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ValMtp3&theme=github)
-<!-- ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ValMtp3&layout=donut-vertical) -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ValMtp3&theme=github)
+<!-- ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ValMtp3&layout=donut-vertical) -->
 
 Merci de visiter mon profil ! N'hésite pas à explorer mes projets et à me contacter si tu as des questions ou des suggestions.
 [![](https://visitcount.itsvg.in/api?id=ValMtp3&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
