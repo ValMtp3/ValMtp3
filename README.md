@@ -18,6 +18,7 @@ Salut, je suis Valentin ! 👋 Je suis actuellement en études d'informatique à
 ## Contact
 
 - 🌐 [Valentin Fiess](https://www.valentin-fiess.fr)
+- 🐈 [Chatbot](https://www.valentin-fiess.fr/chatbot)
 - 🪪 [CV](https://www.valentin-fiess.fr/assets/assets_index/CV.pdf)
 - 💼 [Linked in](https://www.linkedin.com/in/valentin-fiess/)
 
@@ -26,7 +27,7 @@ Salut, je suis Valentin ! 👋 Je suis actuellement en études d'informatique à
 
 ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValMtp3&layout=donut-vertical)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ValMtp3&layout=donut-vertical)
   
 Merci de visiter mon profil ! N'hésite pas à explorer mes projets et à me contacter si tu as des questions ou des suggestions.
 [![](https://visitcount.itsvg.in/api?id=ValMtp3&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
