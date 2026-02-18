@@ -12,8 +12,8 @@ Salut, je suis Valentin ! 👋 Je suis actuellement en études d'informatique à
 
 ## Mes compétences
 
-- Langages de programmation : <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,py&theme=light" />
-- Technologies : <img align="center" src="https://skillicons.dev/icons?i=tailwind,vuejs,mysql,symfony,pytorch,tensorflow&theme=light" />
+- Langages de programmation : <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,py,go&theme=light" />
+- Technologies : <img align="center" src="https://skillicons.dev/icons?i=tailwind,vuejs,cloudflare,mysql,mongodb,symfony,pytorch,tensorflow,sklearn&theme=light" />
 
 ## Contact
 
