@@ -1,6 +1,6 @@
-# Bienvenue sur mon profil GitHub !
+# Bienvenue sur mon profil GitHub ! 🦞
 
-Je suis Valentin ! 🦞 Je suis actuellement en études d'informatique à l'EPSI et en découverte de front-end dev web et IA/machine learning.
+Je suis Valentin ! Je suis actuellement en études d'informatique à l'EPSI et en découverte de front-end dev web et IA/machine learning.
 
 
 ## À propos de moi
