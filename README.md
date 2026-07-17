@@ -25,9 +25,9 @@ Je suis Valentin ! Je suis actuellement en études d'informatique à l'EPSI et e
 ![Telegram](https://img.shields.io/badge/ValMtp-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValMtp3&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ValMtp3&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ValMtp3&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValMtp3&theme=graywhite&animation=load)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ValMtp3&theme=graywhite&animation=load)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ValMtp3&theme=graywhite&animation=load)
 <!-- ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ValMtp3&layout=donut-vertical) -->
 
 Merci de visiter mon profil ! N'hésite pas à explorer mes projets et à me contacter si tu as des questions ou des suggestions.
